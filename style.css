@@ -1,5 +1,22 @@
 body {
     background-color: slateblue;
+    background-image: linear-gradient(black, slateblue, black);
     color: white;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.mainBody {
+    background-color: black;
+}
+
+.linkSection {
+    background-color: black;
+}
+
+.news {
+    background-color: black;
+}
+
+a {
+    color: white;
 }
